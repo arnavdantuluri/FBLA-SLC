@@ -21,6 +21,4 @@ requests library (pip install requests)
 
 pillow library (pip install Pillow)
 
-Note:
-
-If you get a json or html related error close the tab and rerun it. The error is caused by socket overuse and there is no certified way to solve this
+folium library (pip install folium)
