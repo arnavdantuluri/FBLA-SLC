@@ -3,9 +3,9 @@ Utilized Tkinter and python to develop a graphical user interface that recommend
 
 Pros: The google maps api has over 10 million places and is constantly being updated which provides a huge advantage over the 1000 or so you can manually input into a database. The sqlite database is extremely lightweight and does not require a server to run
 
-Cons: The google maps api costs money but google does provide $200 worth of free credit however charges do rack up after a while. Because sqlite is so lightweight it often shuts down connections due to an overload of requests for the database. In a commercial application the sqlite database would be replaced with a mySql database
+Cons: The google maps api costs money but google does provide $200 worth of free credit. Because sqlite is so lightweight it often shuts down connections due to an overload of requests for the database. In a commercial application the sqlite database would be replaced with a mySql database or another more professional database system
 
-Plans for improvement: Plan on implementing a recommendation system which will utilize the database of users and also implement a link to the website of the service the google maps api returns
+Plans for improvement: Plan on implementing a recommendation system which will utilize the database of users and also implement a link to a website which contains a forum for users to ask questions and to interact with other users (will be built using django)
 
 Requirements:
 
