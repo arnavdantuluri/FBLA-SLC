@@ -22,3 +22,7 @@ requests library (pip install requests)
 pillow library (pip install Pillow)
 
 folium library (pip install folium)
+
+
+# Note:
+If the return page return a 0 as a rating it is because the rating does not exist and it is the only service under those certain parameters which is why it is returned
