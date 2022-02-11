@@ -5,7 +5,7 @@ Pros: The google maps api has over 10 million places and is constantly being upd
 
 Cons: The google maps api costs money but google does provide $200 worth of free credit. Because sqlite is so lightweight it often shuts down connections due to an overload of requests for the database. In a commercial application the sqlite database would be replaced with a mySql database or another more professional database system
 
-Plans for improvement: Plan on implementing a recommendation system which will utilize the database of users and also implement a link to a website which contains a forum for users to ask questions and to interact with other users (will be built using django)
+Plans for improvement: Plan on implementing a recommendation system which will utilize the database of users and also implement a link to a website which contains a forum for users to ask questions and to interact with other users (will be built using django). I also plan on making the output menu more interactive.
 
 Requirements:
 
