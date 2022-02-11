@@ -8,4 +8,6 @@ Sign up as a new user and then login.
 
 If the google maps api key doesn't work it is either because the key was revoked or I ran out of free credits. If this happens please go to https://developers.google.com/maps/documentation and click get started. Once that is done create an account then start a project.
 
-Once the project is started go to this page https://console.cloud.google.com/google/maps-apis/credentials?project=slc-project-339510 and generate an api key which can replace my api key provided in food.py, recreation.py, tourist.py, and location.pys
+Once the project is started go to this page https://console.cloud.google.com/google/maps-apis/credentials?project=slc-project-339510 and generate an api key which can replace my api key provided in food.py, recreation.py, tourist.py, and location.py
+
+If you get a message regarding an ip overuse or an error because of that simply restart the program and it should work again
